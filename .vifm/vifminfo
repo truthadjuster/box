@@ -1,0 +1,580 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'b
+	/home/dx/bin/
+	..
+1657115369
+'h
+	/home/dx/
+	..
+1657115369
+
+# Bookmarks:
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/dx/src/golang/golang-tutorials/09-slices
+	05-slice-length-capacity
+5
+d/home/dx/src/golang/golang-tutorials/09-slices/05-slice-length-capacity
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	01-create-slice
+1
+d/home/dx/src/golang/golang-tutorials/09-slices/01-create-slice
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	02-create-slice-from-array
+2
+d/home/dx/src/golang/golang-tutorials/09-slices/02-create-slice-from-array
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	02-create-slice-from-array
+2
+d/home/dx/src/golang/golang-tutorials/09-slices/02-create-slice-from-array
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	03-create-slice-from-another-slice
+3
+d/home/dx/src/golang/golang-tutorials/09-slices/03-create-slice-from-another-slice
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	04-slice-modify
+4
+d/home/dx/src/golang/golang-tutorials/09-slices/04-slice-modify
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/02-variables
+	..
+0
+d/home/dx/src/golang/golang-tutorials
+	09-slices
+9
+d/home/dx/src/golang/golang-tutorials/09-slices
+	04-slice-modify
+4
+d/home/dx/src/golang/golang-tutorials/09-slices/04-slice-modify
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	02-create-slice-from-array
+2
+d/home/dx/src/golang/golang-tutorials/09-slices/02-create-slice-from-array
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	03-create-slice-from-another-slice
+3
+d/home/dx/src/golang/golang-tutorials/09-slices/03-create-slice-from-another-slice
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	04-slice-modify
+4
+d/home/dx/src/golang/golang-tutorials/09-slices/04-slice-modify
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	05-slice-length-capacity
+5
+d/home/dx/src/golang/golang-tutorials/09-slices/05-slice-length-capacity
+	main.go
+1
+d/home/dx/src/golang/golang-tutorials/09-slices
+	06-slice-extend-capacity
+6
+d/home/dx/src/golang/golang-tutorials/09-slices/06-slice-extend-capacity
+	main.go
+1
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web
+	controller
+1
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/controller
+	homepage.go
+1
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web
+	templates
+3
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/templates
+	homepage
+1
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/templates/homepage
+	master_header.html
+3
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/templates
+	layouts
+2
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/templates/layouts
+	menu.html
+3
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/templates
+	views
+3
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/templates/views
+	index.html
+3
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/templates
+	views
+3
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web
+	static
+2
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/static
+	css
+1
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/static/css
+	landing-page.min.css
+2
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web/static
+	vendor
+5
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web
+	static
+2
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src
+	web
+1
+d/home/dx/src/golang/geeksbeginner/golang-gin-template/src/web
+	controller
+1
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment
+	1
+1
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment/1
+	authority.toml
+3
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment
+	2
+2
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment/2
+	authority.toml
+3
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment
+	3
+3
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment/3
+	authority.toml
+3
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment
+	4
+4
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment/4
+	authority.toml
+3
+d/home/dx/src/blockchain/acenthammer/networks/repos/paritytech_parity-deploy/deployment
+	3
+3
+d/home/dx/src/android/sms_my_gps
+	app
+1
+d/home/dx/src/android/sms_my_gps/app
+	src
+1
+d/home/dx/src/android/sms_my_gps/app/src
+	..
+0
+d/home/dx/src/android/sms_my_gps/app
+	src
+1
+d/home/dx/src/android/sms_my_gps/app/src
+	main
+1
+d/home/dx/src/android/sms_my_gps/app/src/main
+	res
+2
+d/home/dx/src/android/sms_my_gps/app/src/main/res
+	layout
+2
+d/home/dx/src/android/sms_my_gps/app/src/main
+	res
+2
+d/home/dx/src/android/sms_my_gps/app/src/main/res
+	layout
+2
+d/home/dx/src/android/sms_my_gps/app/src/main
+	java
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java
+	com
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com
+	github
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github
+	anevero
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero
+	sms_my_gps
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps
+	activity
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps/activity
+	SettingsActivity.java
+4
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps
+	data
+2
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps/data
+	Preferences.java
+3
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps
+	data
+2
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero
+	sms_my_gps
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github
+	anevero
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com
+	github
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java
+	com
+1
+d/home/dx/src/android/sms_my_gps/app/src/main
+	AndroidManifest.xml
+3
+d/home/dx/src/android/sms_my_gps
+	app
+1
+d/home/dx/src/android/sms_my_gps/app
+	src
+1
+d/home/dx/src/android/sms_my_gps/app/src
+	main
+1
+d/home/dx/src/android/sms_my_gps/app/src/main
+	java
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java
+	com
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com
+	github
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github
+	anevero
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero
+	sms_my_gps
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps
+	data
+2
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero
+	sms_my_gps
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps
+	events
+3
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps/events
+	ForegroundService.java
+2
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps
+	events
+3
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero
+	sms_my_gps
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github
+	anevero
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com
+	github
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java
+	com
+1
+d/home/dx/src/android/sms_my_gps/app/src/main
+	java
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java
+	com
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com
+	github
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github
+	anevero
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero
+	sms_my_gps
+1
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps
+	events
+3
+d/home/dx/src/android/sms_my_gps/app/src/main/java/com/github/anevero/sms_my_gps/events
+	ForegroundService.java
+2
+d
+
+# Right window history (oldest to newest):
+D/cygdrive/c/eclipse/plugins/com.ibm.bluez.jcop.eclipse_3.8.3.5
+	..
+0
+D/cygdrive/c/eclipse/plugins
+	..
+0
+D/cygdrive/c/eclipse
+	..
+0
+D/cygdrive/c
+	eclipse
+16
+D/cygdrive/c/eclipse
+	plugins
+5
+D/cygdrive/c/eclipse/plugins
+	com.ibm.bluez.jcop.eclipse_3.8.3.5
+4
+D/cygdrive/c/eclipse/plugins/com.ibm.bluez.jcop.eclipse_3.8.3.5
+	lib
+7
+D/cygdrive/c/eclipse/plugins/com.ibm.bluez.jcop.eclipse_3.8.3.5/lib
+	offcard.jar
+17
+D/cygdrive/c/eclipse/plugins/com.ibm.bluez.jcop.eclipse_3.8.3.5
+	lib
+7
+D/cygdrive/c/eclipse/plugins/com.ibm.bluez.jcop.eclipse_3.8.3.5/lib
+	..
+0
+D/cygdrive/c/eclipse/plugins/com.ibm.bluez.jcop.eclipse_3.8.3.5
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard
+	buildSrc
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc
+	src
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src
+	main
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main
+	java
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java
+	im
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im
+	status
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status
+	keycard
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status/keycard
+	build
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status/keycard/build
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status/keycard
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc
+	src
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src
+	main
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main
+	java
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java
+	im
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im
+	status
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status
+	keycard
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status/keycard
+	build
+1
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status/keycard/build
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status/keycard
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im/status
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java/im
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main/java
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src/main
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc/src
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard/buildSrc
+	src
+1
+D/cygdrive/c/Users/63927/src/status-keycard-java/lib
+	..
+0
+D/cygdrive/c/Users/63927/src/status-keycard-java/desktop
+	src
+1
+D/cygdrive/c/Users/63927/src/status-keycard-java/desktop/src
+	main
+1
+D/cygdrive/c/Users/63927/src/status-keycard-java/desktop/src/main
+	java
+1
+D/cygdrive/c/Users/63927/src/status-keycard-java/desktop/src/main/java
+	im
+1
+D/cygdrive/c/Users/63927/src/status-keycard-java/desktop/src/main/java/im
+	status
+1
+D/cygdrive/c/Users/63927/src/status-keycard-java/desktop/src/main/java/im/status
+	keycard
+1
+D/cygdrive/c/Users/63927/src/status-keycard-java/desktop/src/main/java/im/status/keycard
+	desktop
+1
+D/cygdrive/c/Users/63927/src/status-keycard-java/desktop/src/main/java/im/status/keycard/desktop
+	LedgerUSBChannel.java
+1
+D/cygdrive/c/Users/63927/src/javacard/GlobalPlatformPro/tool
+	src
+1
+D/cygdrive/c/Users/63927/src/javacard/GlobalPlatformPro/tool/src
+	main
+1
+D/cygdrive/c/Users/63927/src/javacard/GlobalPlatformPro/tool/src/main
+	java
+1
+D/cygdrive/c/Users/63927/src/javacard/GlobalPlatformPro/tool/src/main/java
+	pro
+1
+D/cygdrive/c/Users/63927/src/javacard/GlobalPlatformPro/tool/src/main/java/pro
+	javacard
+1
+D/cygdrive/c/Users/63927/src/javacard/GlobalPlatformPro/tool/src/main/java/pro/javacard
+	gp
+1
+D/cygdrive/c/Users/63927/src/javacard/GlobalPlatformPro/tool/src/main/java/pro/javacard/gp
+	GPTool.java
+3
+D/
+	bin
+0
+D/bin
+	X11
+1
+D/
+	bin
+0
+D/home/dx/Desktop/src/mosip-print-idpass
+	
+0
+D/home/dx/src/idpass/idpass-mosip-resident-app/backend
+	
+0
+D/home/dx/src/decenternet/brave-browser
+	
+0
+D/home/dx/Desktop/src/idpass-mosip-resident-app/backend/src
+	
+0
+D/home
+	..
+0
+D/
+	lib
+5
+D/mnt/c/Users/user1/purecode/chromium
+	apps
+2
+D/mnt/c/Users/user1/purecode
+	
+0
+D/home/uuser1/src/openethereum/crates
+	..
+0
+D/home/uuser1/src/openethereum
+	crates
+2
+D/home/uuser1/src
+	openethereum
+9
+D/home
+	
+0
+D
+
+# Command line history (oldest to newest):
+:find . -type f -name 'nut.jar'
+:find . -type f -name offcard.jar
+:ls -l tmp
+:ls -l kard.bat
+:pwd
+:!git log
+:q
+
+# Search history (oldest to newest):
+/renderer
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
