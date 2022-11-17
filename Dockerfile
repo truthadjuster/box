@@ -1,6 +1,8 @@
-FROM ubuntu:latest
+FROM ubuntu:17.04
+## FROM ubuntu:latest
 
-## COPY sources.list /etc/apt/sources.list
+## copy workable sources.list for Ubuntu 17.04
+COPY sources.list /etc/apt/sources.list
 
 RUN myDeps=' \
         build-essential \
