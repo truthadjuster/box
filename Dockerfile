@@ -9,6 +9,7 @@ RUN myDeps=' \
         tmux \
         vim \
         vifm \
+        iproute2 \
         tree \
         jq \
         xmlstarlet \
